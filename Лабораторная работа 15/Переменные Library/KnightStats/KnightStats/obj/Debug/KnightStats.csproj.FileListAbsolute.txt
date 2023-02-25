@@ -1,0 +1,12 @@
+G:\TestLaba\Переменные Library\KnightStats\KnightStats\bin\Debug\KnightStats.dll
+G:\TestLaba\Переменные Library\KnightStats\KnightStats\bin\Debug\KnightStats.pdb
+G:\TestLaba\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.csproj.AssemblyReference.cache
+G:\TestLaba\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.csproj.CoreCompileInputs.cache
+G:\TestLaba\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.dll
+G:\TestLaba\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Лабораторная работа 15\Переменные Library\KnightStats\KnightStats\bin\Debug\KnightStats.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Лабораторная работа 15\Переменные Library\KnightStats\KnightStats\bin\Debug\KnightStats.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Лабораторная работа 15\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Лабораторная работа 15\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Лабораторная работа 15\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Лабораторная работа 15\Переменные Library\KnightStats\KnightStats\obj\Debug\KnightStats.pdb

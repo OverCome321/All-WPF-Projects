@@ -1,0 +1,48 @@
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\bin\Debug\GameOfTowers.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\bin\Debug\GameOfTowers.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\bin\Debug\GameOfTowers.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\Game.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\Game.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\MainPage.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\MainPage.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\bin\Debug\4.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\bin\Debug\4.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\obj\Debug\GameOfTowers.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\bin\Debug\ClassLibrary5Unit.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Ковальчук 15 Лаба\GameOfTowers\GameOfTowers\bin\Debug\ClassLibrary5Unit.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\bin\Debug\GameOfTowers.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\bin\Debug\GameOfTowers.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\bin\Debug\GameOfTowers.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\bin\Debug\4.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\bin\Debug\ClassLibrary5Unit.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\Game.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\MainPage.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\Game.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\MainPage.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\15 Лабораторная еще раз сделанная\Здесь все что нужно для ИГРЫ!\GameOfTowers (Сама игра)\GameOfTowers\obj\Debug\GameOfTowers.pdb

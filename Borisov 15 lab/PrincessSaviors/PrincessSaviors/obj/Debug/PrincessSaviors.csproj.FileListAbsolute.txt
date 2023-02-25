@@ -1,0 +1,69 @@
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.exe.config
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.exe
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.pdb
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csprojAssemblyReference.cache
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\MainWindow.g.cs
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\App.g.cs
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors_MarkupCompile.cache
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors_MarkupCompile.lref
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\MainWindow.baml
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.g.resources
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.Properties.Resources.resources
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.GenerateResource.cache
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.exe
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.pdb
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\Knights.g.cs
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\Knights.baml
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\Map.g.cs
+C:\Users\user.UIT\Desktop\PrincessSaviors\PrincessSaviors\obj\Debug\Map.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Knights.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Map.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Knights.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Map.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PlayerClass.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PlayerClass.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\4.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\4.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PrincessSaviors.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\4.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PlayerClass.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\4.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\bin\Debug\PlayerClass.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Knights.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Map.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Knights.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\Map.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Все работы\C#\Лабораторные работы\Borisov 15 lab\PrincessSaviors\PrincessSaviors\obj\Debug\PrincessSaviors.pdb

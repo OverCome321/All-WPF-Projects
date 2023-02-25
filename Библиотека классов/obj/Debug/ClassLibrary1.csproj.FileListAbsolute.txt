@@ -1,0 +1,29 @@
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\fanel\Downloads\Лаборотореая работ 3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\fanel\Downloads\Лаборотореая работ 3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\Downloads\Лаборотореая работ 3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\fanel\Downloads\Лаборотореая работ 3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fanel\Downloads\Лаборотореая работ 3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\fanel\Downloads\Лаборотореая работ 3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 5\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 5\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 5\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 5\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 5\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 5\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 6\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 6\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 6\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 6\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 6\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 6\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

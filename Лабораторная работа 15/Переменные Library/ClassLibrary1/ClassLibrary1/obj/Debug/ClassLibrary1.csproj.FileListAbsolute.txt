@@ -1,0 +1,6 @@
+G:\TestLaba\Переменные Library\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\TestLaba\Переменные Library\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\TestLaba\Переменные Library\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+G:\TestLaba\Переменные Library\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\TestLaba\Переменные Library\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\TestLaba\Переменные Library\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

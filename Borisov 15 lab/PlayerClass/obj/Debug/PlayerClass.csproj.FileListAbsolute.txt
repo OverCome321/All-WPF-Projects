@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\C#\Колледж\Борисов Лаба 28092021\PlayerClass\bin\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\Борисов Лаба 28092021\PlayerClass\bin\Debug\PlayerClass.pdb
+C:\Users\User\Desktop\C#\Колледж\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\Колледж\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Колледж\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.pdb
+C:\Users\user.UIT\Desktop\Борисов Лаба 28092021\PlayerClass\bin\Debug\PlayerClass.dll
+C:\Users\user.UIT\Desktop\Борисов Лаба 28092021\PlayerClass\bin\Debug\PlayerClass.pdb
+C:\Users\user.UIT\Desktop\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.csprojAssemblyReference.cache
+C:\Users\user.UIT\Desktop\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.dll
+C:\Users\user.UIT\Desktop\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.pdb
+E:\Колледж\C# Programming\Борисов Лаба 28092021\PlayerClass\bin\Debug\PlayerClass.dll
+E:\Колледж\C# Programming\Борисов Лаба 28092021\PlayerClass\bin\Debug\PlayerClass.pdb
+E:\Колледж\C# Programming\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.csprojAssemblyReference.cache
+E:\Колледж\C# Programming\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.csproj.CoreCompileInputs.cache
+E:\Колледж\C# Programming\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.dll
+E:\Колледж\C# Programming\Борисов Лаба 28092021\PlayerClass\obj\Debug\PlayerClass.pdb
+C:\Users\User\Desktop\C#\Колледж\KnightsLaba4\PlayerClass\bin\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\KnightsLaba4\PlayerClass\bin\Debug\PlayerClass.pdb
+C:\Users\User\Desktop\C#\Колледж\KnightsLaba4\PlayerClass\obj\Debug\PlayerClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Колледж\KnightsLaba4\PlayerClass\obj\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\KnightsLaba4\PlayerClass\obj\Debug\PlayerClass.pdb
+C:\Users\User\Desktop\C#\Колледж\Лаба5Борисов\PlayerClass\bin\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\Лаба5Борисов\PlayerClass\bin\Debug\PlayerClass.pdb
+C:\Users\User\Desktop\C#\Колледж\Лаба5Борисов\PlayerClass\obj\Debug\PlayerClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Колледж\Лаба5Борисов\PlayerClass\obj\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\Лаба5Борисов\PlayerClass\obj\Debug\PlayerClass.pdb
+C:\Users\User\Desktop\C#\Колледж\Laba8Mike\PlayerClass\bin\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\Laba8Mike\PlayerClass\bin\Debug\PlayerClass.pdb
+C:\Users\User\Desktop\C#\Колледж\Laba8Mike\PlayerClass\obj\Debug\PlayerClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Колледж\Laba8Mike\PlayerClass\obj\Debug\PlayerClass.dll
+C:\Users\User\Desktop\C#\Колледж\Laba8Mike\PlayerClass\obj\Debug\PlayerClass.pdb

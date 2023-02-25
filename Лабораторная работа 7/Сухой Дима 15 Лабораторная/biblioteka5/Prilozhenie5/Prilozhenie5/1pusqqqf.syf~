@@ -1,0 +1,249 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using ClassLibrary5;
+
+namespace Prilozhenie5
+{
+    /// <summary>
+    /// Логика взаимодействия для MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            Unit voin1 = new Unit();
+            Unit voin2 = new Unit();
+            Shooter strelok1 = new Shooter();
+            Shooter strelok2 = new Shooter();
+            Mag koldyn1 = new Mag();
+            Mag koldyn2 = new Mag();
+        }
+        int x = 0;
+
+        Unit voin1 = new Unit();
+        Unit voin2 = new Unit();
+        Shooter strelok1 = new Shooter();
+        Shooter strelok2 = new Shooter();
+        Mag koldyn1 = new Mag();
+        Mag koldyn2 = new Mag();
+
+
+
+        private void unit0_SelectionChanged(object sender, SelectionChangedEventArgs e)
+    {
+            switch (unit0.SelectedIndex)
+            {
+                case 0:
+                    {
+                        kolv1.Visibility = Visibility.Hidden;
+                        arr1.Visibility = Visibility.Hidden;
+                        man1.Visibility = Visibility.Hidden;
+                        mana1.Visibility = Visibility.Hidden;
+                        
+                        break;
+
+                    }
+                case 1:
+                    {
+                        kolv1.Visibility = Visibility.Visible;
+                        arr1.Visibility = Visibility.Visible;
+                        man1.Visibility = Visibility.Hidden;
+                        mana1.Visibility = Visibility.Hidden;
+                        break;
+
+                    }
+                case 2:
+                    {
+                        man1.Visibility = Visibility.Visible;
+                        mana1.Visibility = Visibility.Visible;
+                        kolv1.Visibility = Visibility.Hidden;
+                        arr1.Visibility = Visibility.Hidden;
+                        break;
+                    }
+            }
+
+    }
+
+   
+    private void unit1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+    {
+            switch (unit1.SelectedIndex )
+            {
+                case 0:
+                    {
+                        kolv2.Visibility = Visibility.Hidden;
+                        arr2.Visibility = Visibility.Hidden;
+                        man2.Visibility = Visibility.Hidden;
+                        mana2.Visibility = Visibility.Hidden;
+                        break;
+                    }
+                case 1:
+                    {
+                        kolv2.Visibility = Visibility.Visible;
+                        arr2.Visibility = Visibility.Visible;
+                        man2.Visibility = Visibility.Hidden;
+                        mana2.Visibility = Visibility.Hidden;
+                        break;
+                    }
+                case 2:
+                    {
+                        man2.Visibility = Visibility.Visible;
+                        mana2.Visibility = Visibility.Visible;
+                        kolv2.Visibility = Visibility.Hidden;
+                        arr2.Visibility = Visibility.Hidden;
+                        break;
+                    }
+            }
+           
+    }
+
+        private void  dobav1_Click(object sender, RoutedEventArgs e)
+        {
+            
+            ++x;
+            
+            if (Convert.ToInt32(xp1.Text) > Convert.ToInt32(maxhp1.Text))
+                xp1.Text = Convert.ToString(maxhp1.Text);
+            unit0.Visibility = Visibility.Hidden;
+            TIP1.Visibility = Visibility.Hidden;
+            if (unit0.SelectedIndex == 0)
+            {
+                voin1.HP = Convert.ToInt32(xp1.Text);
+                voin1.MaxHp = Convert.ToInt32(maxhp1.Text);
+                voin1.attack = Convert.ToInt32(attack1.Text);
+                voin1.attack = Convert.ToInt32(def1.Text);
+                CL1.Text = "Юнит";
+            }
+            if (unit0.SelectedIndex == 1)
+            {
+                strelok1.MaxHp = Convert.ToInt32(maxhp1.Text);
+                strelok1.HP = Convert.ToInt32(xp1.Text);
+                strelok1.defence = Convert.ToInt32(def1.Text);
+                strelok1.attack = Convert.ToInt32(attack1.Text);
+                strelok1.arrow = Convert.ToInt32(arr1.Text);
+                Ar1.Visibility = Visibility.Visible;
+                _5.Visibility = Visibility.Visible;
+                
+                CL1.Text = "Стрелок";
+            }
+            if (unit0.SelectedIndex == 2)
+            {
+                koldyn1.MaxHp = Convert.ToInt32(maxhp1.Text);
+                koldyn1.HP = Convert.ToInt32(xp1.Text);
+                koldyn1.defence = Convert.ToInt32(def1.Text);
+                koldyn1.attack = Convert.ToInt32(attack1.Text);
+                koldyn1.mana = Convert.ToInt32(arr1.Text);
+                ma1.Visibility = Visibility.Visible;
+                _6.Visibility = Visibility.Visible;
+                
+                CL1.Text = "Маг";
+            }
+            dobav1.Visibility = Visibility.Hidden;
+            if (x == 2)
+                fight.Visibility = Visibility.Visible;
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if(unit0.SelectedIndex== 1)            
+                if(Convert.ToInt32(_5.Text)>0)
+                    _5.Text = Convert.ToString(strelok1.ARR(Convert.ToInt32(_5.Text)));      
+            else
+                    _5.Text = "0";
+            if (unit0.SelectedIndex== 2)
+                if (Convert.ToInt32(_6.Text) > 0)
+                    _6.Text = Convert.ToString(koldyn1.info(Convert.ToInt32(_6.Text)));
+            else 
+                    _6.Text = "0";
+            if (unit1.SelectedIndex == 1)
+                if (Convert.ToInt32(_11.Text) > 0)
+                    _11.Text = Convert.ToString(strelok2.ARR(Convert.ToInt32(_11.Text)));
+            else 
+                    _11.Text = "0";
+            if (unit1.SelectedIndex == 2)
+                if (Convert.ToInt32(_12.Text) > 0)
+                    _12.Text = Convert.ToString(koldyn2.info(Convert.ToInt32(_12.Text)));
+            else 
+                    _12.Text = "0";
+            _2.Text =Convert.ToString( Convert.ToDouble(_2.Text) - Convert.ToDouble(Unit.atack(Convert.ToInt32(_10.Text))) * (Convert.ToDouble(_3.Text))* 0.5);
+            _8.Text = Convert.ToString(Convert.ToDouble(_8.Text) - Convert.ToDouble(Unit.atack(Convert.ToInt32(_4.Text))) * (Convert.ToDouble(_9.Text)) * 0.5);
+            if (Convert.ToDouble(_2.Text) - (Convert.ToDouble(Unit.atack(Convert.ToInt32(_10.Text))) * (Convert.ToDouble(_3.Text)) * 0.5) * 2 <= 0)
+            {
+                MessageBox.Show("Следующий удар может убить 1-ого воина(");
+            }
+            if (Convert.ToDouble(_8.Text) - (Convert.ToDouble(Unit.atack(Convert.ToInt32(_4.Text))) * (Convert.ToDouble(_9.Text)) * 0.5)*2 <= 0)
+            {
+                MessageBox.Show("Следующий удар может убить 2-ого воина(");
+            }
+        }
+
+        private void dobav2_Click(object sender, RoutedEventArgs e)
+        {
+            ++x;
+            if (Convert.ToInt32(xp2.Text) > Convert.ToInt32(maxhp2.Text))
+                xp2.Text = Convert.ToString(maxhp2.Text);
+            unit1.Visibility = Visibility.Hidden;
+            TIP2.Visibility = Visibility.Hidden;
+            if (unit1.SelectedIndex == 0)
+            {
+                voin2.MaxHp = Convert.ToInt32(maxhp2.Text);
+                voin2.HP = Convert.ToInt32(xp2.Text);
+                voin2.defence = Convert.ToInt32(def2.Text);
+                voin2.attack = Convert.ToInt32(attack2.Text);
+                
+                CL2.Text = "Юнит";
+            }
+            if (unit1.SelectedIndex == 1)
+            {
+                strelok2.MaxHp = Convert.ToInt32(maxhp2.Text);
+                strelok2.HP = Convert.ToInt32(xp2.Text);
+                strelok2.defence = Convert.ToInt32(def2.Text);
+                strelok2.attack = Convert.ToInt32(attack2.Text);
+                strelok2.arrow = Convert.ToInt32(arr2.Text);
+                Ar2.Visibility = Visibility.Visible;
+                _11.Visibility = Visibility.Visible;
+                _7.Text = Convert.ToString(Shooter.MaxHp);
+                _8.Text = Convert.ToString(Shooter.HP);
+                _9.Text = Convert.ToString(Shooter.defence);
+                _10.Text = Convert.ToString(Shooter.atack(Convert.ToInt32(attack1.Text)));
+                _11.Text = Convert.ToString(Shooter.arrow);
+                CL2.Text = "Стрелок";
+            }
+            if (unit1.SelectedIndex == 2)
+            {
+                Mag.MaxHp = Convert.ToInt32(maxhp2.Text);
+                Mag.HP = Convert.ToInt32(xp2.Text);
+                Mag.defence = Convert.ToInt32(def2.Text);
+                Mag.attack = Convert.ToInt32(attack2.Text);
+                Mag.mana = Convert.ToInt32(man2.Text);
+                ma2.Visibility = Visibility.Visible;
+                _12.Visibility = Visibility.Visible;
+                _7.Text = Convert.ToString(Mag.MaxHp);
+                _8.Text = Convert.ToString(Mag.HP);
+                _9.Text = Convert.ToString(Mag.defence);
+                _10.Text = Convert.ToString(Mag.atack(Convert.ToInt32(attack1.Text)));
+                _12.Text = Convert.ToString(Mag.mana);
+                CL2.Text = "Маг";
+            }
+            dobav2.Visibility = Visibility.Hidden;
+            if (x == 2)
+                fight.Visibility = Visibility.Visible;
+        }
+
+       
+    }
+}

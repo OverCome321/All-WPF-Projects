@@ -1,0 +1,6 @@
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary5\ClassLibrary5Unit\ClassLibrary5Unit\bin\Debug\ClassLibrary5Unit.dll
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary5\ClassLibrary5Unit\ClassLibrary5Unit\bin\Debug\ClassLibrary5Unit.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary5\ClassLibrary5Unit\ClassLibrary5Unit\obj\Debug\ClassLibrary5Unit.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary5\ClassLibrary5Unit\ClassLibrary5Unit\obj\Debug\ClassLibrary5Unit.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary5\ClassLibrary5Unit\ClassLibrary5Unit\obj\Debug\ClassLibrary5Unit.dll
+C:\Users\fanel\OneDrive\Рабочий стол\ClassLibrary5\ClassLibrary5Unit\ClassLibrary5Unit\obj\Debug\ClassLibrary5Unit.pdb

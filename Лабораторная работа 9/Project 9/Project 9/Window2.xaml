@@ -1,0 +1,14 @@
+﻿<Window x:Class="Project_9.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_9"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid>
+        <Image Margin="221,10,238,346" Source="epzsh3djqtws65uu.png" Stretch="Fill"/>
+        <Label Content="                                     First condition of use&#xD;&#xA;1. The name is formatted: extra spaces are removed, the first word is&#xD;&#xA; capitalized, the rest of the letters are lowercase&#xD;&#xA;2. Endless Source&#xD;&#xA;Two random letters are doubled (but these two letters must not be&#xD;&#xA; in the same word)&#xD;&#xA;3.Cursed source&#xD;&#xA;K random letters are removed from the name. The number k is &#xD;&#xA;random, no more than a third of the number of letters in the title" HorizontalAlignment="Left" Margin="0,88,0,0" VerticalAlignment="Top" Height="331" Width="792" FontWeight="Bold" FontSize="24"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\fanel\OneDrive\Рабочий стол\Chemist\Chemist\Chemist\bin\Debug\Chemist.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Chemist\Chemist\Chemist\bin\Debug\Chemist.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Chemist\Chemist\Chemist\obj\Debug\Chemist.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Chemist\Chemist\Chemist\obj\Debug\Chemist.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Chemist\Chemist\Chemist\obj\Debug\Chemist.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Chemist\Chemist\Chemist\obj\Debug\Chemist.pdb

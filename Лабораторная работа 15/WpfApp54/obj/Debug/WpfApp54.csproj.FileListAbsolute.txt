@@ -1,0 +1,139 @@
+C:\Users\user.UIT\source\repos\WpfApp54\bin\Debug\WpfApp54.exe.config
+C:\Users\user.UIT\source\repos\WpfApp54\bin\Debug\WpfApp54.exe
+C:\Users\user.UIT\source\repos\WpfApp54\bin\Debug\WpfApp54.pdb
+C:\Users\user.UIT\source\repos\WpfApp54\bin\Debug\PlayerClass.dll
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.csproj.AssemblyReference.cache
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\MainWindow.g.cs
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\App.g.cs
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.cache
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.lref
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\MainWindow.baml
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.g.resources
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.Properties.Resources.resources
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.csproj.GenerateResource.cache
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.csproj.CopyComplete
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.exe
+C:\Users\user.UIT\source\repos\WpfApp54\obj\Debug\WpfApp54.pdb
+D:\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe.config
+D:\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe
+D:\TestLaba\WpfApp54\bin\Debug\WpfApp54.pdb
+D:\TestLaba\WpfApp54\obj\Debug\MainWindow.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\App.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.cache
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.lref
+D:\TestLaba\WpfApp54\obj\Debug\MainWindow.baml
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.g.resources
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.Properties.Resources.resources
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.GenerateResource.cache
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CoreCompileInputs.cache
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CopyComplete
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.exe
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.pdb
+D:\TestLaba\WpfApp54\obj\Debug\Page1.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\Page1.baml
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.AssemblyReference.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.SuggestedBindingRedirects.cache
+G:\TestLaba\WpfApp54\obj\Debug\MainWindow.g.cs
+G:\TestLaba\WpfApp54\obj\Debug\Page1.g.cs
+G:\TestLaba\WpfApp54\obj\Debug\App.g.cs
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.lref
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.exe
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.pdb
+G:\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe.config
+G:\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe
+G:\TestLaba\WpfApp54\bin\Debug\WpfApp54.pdb
+G:\TestLaba\WpfApp54\obj\Debug\MainWindow.baml
+G:\TestLaba\WpfApp54\obj\Debug\Page1.baml
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.g.resources
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.Properties.Resources.resources
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.GenerateResource.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CoreCompileInputs.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CopyComplete
+G:\TestLaba\WpfApp54\obj\Debug\Game.g.cs
+G:\TestLaba\WpfApp54\obj\Debug\Game.baml
+G:\TestLaba\WpfApp54\bin\Debug\ClassLibrary1.dll
+G:\TestLaba\WpfApp54\bin\Debug\ClassLibrary1.pdb
+G:\TestLaba\WpfApp54\obj\Debug\SettingOfSource.g.cs
+G:\TestLaba\WpfApp54\obj\Debug\SettingOfSource.baml
+G:\TestLaba\WpfApp54\bin\Debug\KnightStats.dll
+G:\TestLaba\WpfApp54\bin\Debug\KnightStats.pdb
+G:\TestLaba\WpfApp54\obj\Debug\Window1.g.cs
+G:\TestLaba\WpfApp54\obj\Debug\Window1.baml
+G:\TestLaba\WpfApp54\obj\Debug\Window2.g.cs
+G:\TestLaba\WpfApp54\obj\Debug\Window2.baml
+E:\TestLaba\WpfApp54\obj\Debug\Game2.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\MainWindow.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\Page1.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\SettingOfSource.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\Window1.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\Window2.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\App.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.cache
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.lref
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54.exe
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54.pdb
+E:\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe.config
+E:\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe
+E:\TestLaba\WpfApp54\bin\Debug\WpfApp54.pdb
+E:\TestLaba\WpfApp54\bin\Debug\KnightStats.dll
+E:\TestLaba\WpfApp54\bin\Debug\KnightStats.pdb
+E:\TestLaba\WpfApp54\obj\Debug\Game2.baml
+E:\TestLaba\WpfApp54\obj\Debug\MainWindow.baml
+E:\TestLaba\WpfApp54\obj\Debug\Page1.baml
+E:\TestLaba\WpfApp54\obj\Debug\SettingOfSource.baml
+E:\TestLaba\WpfApp54\obj\Debug\Window1.baml
+E:\TestLaba\WpfApp54\obj\Debug\Window2.baml
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54.g.resources
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54.Properties.Resources.resources
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.GenerateResource.cache
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CoreCompileInputs.cache
+E:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CopyComplete
+E:\TestLaba\WpfApp54\obj\Debug\GameInWindow.g.cs
+E:\TestLaba\WpfApp54\obj\Debug\GameInWindow.baml
+E:\TestLaba\WpfApp54\obj\Debug\WindowSettings.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\Game2.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\GameInWindow.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\SettingOfSource.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\Window1.g.cs
+D:\TestLaba\WpfApp54\obj\Debug\Window2.g.cs
+D:\TestLaba\WpfApp54\bin\Debug\KnightStats.dll
+D:\TestLaba\WpfApp54\bin\Debug\KnightStats.pdb
+D:\TestLaba\WpfApp54\obj\Debug\Game2.baml
+D:\TestLaba\WpfApp54\obj\Debug\GameInWindow.baml
+D:\TestLaba\WpfApp54\obj\Debug\SettingOfSource.baml
+D:\TestLaba\WpfApp54\obj\Debug\Window1.baml
+D:\TestLaba\WpfApp54\obj\Debug\Window2.baml
+D:\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\bin\Debug\WpfApp54.exe
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\bin\Debug\WpfApp54.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\bin\Debug\KnightStats.dll
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\bin\Debug\KnightStats.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Game2.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\GameInWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Page1.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\SettingOfSource.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Window1.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Window2.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Game2.baml
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\GameInWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Page1.baml
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\SettingOfSource.baml
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Window1.baml
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\Window2.baml
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.exe
+C:\Users\fanel\OneDrive\Рабочий стол\TestLaba\WpfApp54\obj\Debug\WpfApp54.pdb

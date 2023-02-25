@@ -1,0 +1,45 @@
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\user.UIT\Desktop\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Лаба 10\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Лаба 10\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

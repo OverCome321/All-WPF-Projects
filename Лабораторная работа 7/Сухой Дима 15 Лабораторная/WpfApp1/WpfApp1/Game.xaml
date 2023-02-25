@@ -1,0 +1,45 @@
+﻿<Page x:Class="WpfApp1.Game"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="1600"
+      Title="Game">
+
+    <Grid>
+        <Image Source="/58a05ead39ba315a3271d4b4.png" Stretch="Fill"/>
+        <Image x:Name="SecondMagOfSecondArmy" Margin="1184,450,114,148" Source="/free-icon-wizard-2332801.png" Stretch="Fill"/>
+        <Image x:Name="FirstMagOfSecondArmy" Margin="1090,504,208,94" Source="/free-icon-wizard-2332801.png" Stretch="Fill"/>
+        <Image x:Name="ThirtMagOfSecondArmy" Margin="1288,504,10,94" Source="/free-icon-wizard-2332801.png" Stretch="Fill"/>
+        <Image x:Name="FirstMagOfFisrtArmy" Margin="114,450,1184,148" Source="/imgonline-com-ua-Mirror-rbstr3vOHuetA.png" Stretch="Fill"/>
+        <Image x:Name="SecondMagOfFisrtArmy" Margin="220,504,1078,94" Source="/imgonline-com-ua-Mirror-rbstr3vOHuetA.png" Stretch="Fill"/>
+        <Image x:Name="ThirtMagOfFisrtArmy" Margin="0,504,1298,94" Source="/imgonline-com-ua-Mirror-rbstr3vOHuetA.png" Stretch="Fill"/>
+        <ProgressBar x:Name="BpHpOfFirstArmy" HorizontalAlignment="Left" Height="80" Margin="28,30,0,0" VerticalAlignment="Top" Width="612" Background="White" BorderBrush="White" Foreground="#FF00FF2F"/>
+        <ProgressBar x:Name="BpHpOfSecondArmy" HorizontalAlignment="Left" Height="80" Margin="935,30,0,0" VerticalAlignment="Top" Width="612" BorderBrush="White" Background="White" Foreground="#FF00FF2F"/>
+        <Button x:Name="DamageFirst" Content="Атаковать" HorizontalAlignment="Left" Height="86" Margin="460,174,0,0" VerticalAlignment="Top" Width="180" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" Click="DamageFirst_Click"/>
+        <Button x:Name="DamageSecond" Content="Атаковать" HorizontalAlignment="Left" Height="86" Margin="935,174,0,0" VerticalAlignment="Top" Width="180" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" Click="DamageSecond_Click"/>
+        <Image x:Name="FirstArrowOfFirstArmy" Margin="151,434,1131,148" Source="/free-icon-archer-3056854.png" Stretch="Fill"/>
+        <Image x:Name="SecondArrowOfFirstArmy" Margin="220,488,1062,94" Source="/free-icon-archer-3056854.png" Stretch="Fill"/>
+        <Image x:Name="ThirtArrowOfFirstArmy" Margin="53,488,1229,94" Source="/free-icon-archer-3056854.png" Stretch="Fill"/>
+        <Image x:Name="FirstArrowOfSecondArmy" Margin="1142,434,140,148" Source="/imgonline-com-ua-Mirror-SCODC581JqnzY.png" Stretch="Fill"/>
+        <Image x:Name="SecondArrowOfSecondArmy" Margin="1241,488,41,94" Source="/imgonline-com-ua-Mirror-SCODC581JqnzY.png" Stretch="Fill"/>
+        <Image x:Name="ThirtArrowOfSecondArmy" Margin="1055,488,227,94" Source="/imgonline-com-ua-Mirror-SCODC581JqnzY.png" Stretch="Fill"/>
+        <TextBox x:Name="TbCountOfChemistFirst" HorizontalAlignment="Left" Height="86" Margin="35,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" TextAlignment="Center"/>
+        <Label Content="Число аптечек" HorizontalAlignment="Left" Height="45" Margin="16,115,0,0" VerticalAlignment="Top" Width="215" FontSize="28" FontFamily="Bahnschrift SemiLight" Foreground="White"/>
+        <Label Content="Число аптечек" HorizontalAlignment="Left" Height="45" Margin="1356,115,0,0" VerticalAlignment="Top" Width="215" FontSize="28" FontFamily="Bahnschrift SemiLight" Foreground="White"/>
+        <TextBox x:Name="TbCountOfChemistsSecond" HorizontalAlignment="Left" Height="86" Margin="1356,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" TextAlignment="Center"/>
+        <Button x:Name="UseChemistFirst" Content="Использовать" HorizontalAlignment="Left" Height="86" Margin="35,290,0,0" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" Click="UseChemistFirst_Click"/>
+        <Button x:Name="UseChemistSecond" Content="Использовать" HorizontalAlignment="Left" Height="86" Margin="1356,290,0,0" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" Click="UseChemistSecond_Click"/>
+        <Label x:Name="LabelCountOfFirstArrow" Content="Число стрел&#xD;&#xA;" HorizontalAlignment="Left" Height="45" Margin="260,115,0,0" VerticalAlignment="Top" Width="182" FontSize="28" FontFamily="Bahnschrift SemiLight" Foreground="White"/>
+        <TextBox x:Name="TbCountOfArrowFirst" HorizontalAlignment="Left" Height="86" Margin="246,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" TextAlignment="Center"/>
+        <Label x:Name="LabelCountOfSecondArrow" Content="Число стрел&#xA;" HorizontalAlignment="Left" Height="45" Margin="1142,115,0,0" VerticalAlignment="Top" Width="182" FontSize="28" FontFamily="Bahnschrift SemiLight" Foreground="White"/>
+        <TextBox x:Name="TbCountOfArrowSecond" HorizontalAlignment="Left" Height="86" Margin="1142,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" TextAlignment="Center"/>
+        <Label x:Name="LabelCountOfFirstMana" Content="Число маны" HorizontalAlignment="Left" Height="45" Margin="253,115,0,0" VerticalAlignment="Top" Width="182" FontSize="28" FontFamily="Bahnschrift SemiLight" Foreground="White"/>
+        <TextBox x:Name="TbCountOfManaFirst" HorizontalAlignment="Left" Height="86" Margin="246,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" TextAlignment="Center"/>
+        <Label x:Name="LabelCountOfSecondMana" Content="Число маны" HorizontalAlignment="Left" Height="45" Margin="1142,115,0,0" VerticalAlignment="Top" Width="182" FontSize="28" FontFamily="Bahnschrift SemiLight" Foreground="White"/>
+        <TextBox x:Name="TbCountOfManaSecond" HorizontalAlignment="Left" Height="86" Margin="1142,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Background="White" BorderBrush="White" FontSize="28" FontFamily="Bahnschrift SemiLight" TextAlignment="Center"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Gutnov232.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Borisov16092021"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        WindowStyle="None"
+        ResizeMode="NoResize">
+    <Grid>
+
+        <Button x:Name="DontClick_Button" Content="Не нажимать!" HorizontalAlignment="Left" Margin="259,193,0,0" VerticalAlignment="Top" Width="280" Height="114" FontSize="20" Background="#FFC71C1C" Click="DontClick_Button_Click"/>
+        <TextBox x:Name="GreetingTB" Height="135" Margin="94,20,94,0" TextWrapping="Wrap" Text="&#xD;&#xA;Добрый день!" VerticalAlignment="Top" FontSize="32" TextAlignment="Center"/>
+        <Button x:Name="Go_to_window2_Button" Content="Окно 2" HorizontalAlignment="Left" Margin="30,364,0,0" VerticalAlignment="Top" Width="100" Height="45" Click="Go_to_window2_Button_Click"/>
+        <Button x:Name="Go_to_window3_Button_Copy" Content="Окно 3" HorizontalAlignment="Left" Margin="682,364,0,0" VerticalAlignment="Top" Width="100" Height="45" Click="Go_to_window3_Button_Click"/>
+    </Grid>
+</Window>

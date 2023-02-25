@@ -1,0 +1,127 @@
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe.config
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.pdb
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.dll
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.pdb
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csprojAssemblyReference.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.g.cs
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\App.g.cs
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.lref
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.baml
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.g.resources
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.Properties.Resources.resources
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.GenerateResource.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CopyComplete
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.exe
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.pdb
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe.config
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.pdb
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.cache
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.lref
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.g.resources
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.Properties.Resources.resources
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CopyComplete
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.exe
+C:\Users\User\Desktop\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.pdb
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe.config
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.pdb
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.dll
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.AssemblyReference.cache
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\App.g.cs
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.cache
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.lref
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\MainWindow.baml
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.g.resources
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.Properties.Resources.resources
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.GenerateResource.cache
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CoreCompileInputs.cache
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.exe
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.pdb
+C:\Users\fanel\Downloads\Лаборотореая работ 3\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CopyComplete
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\ClassLibrary1.dll
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.pdb
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe.config
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.pdb
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\ClassLibrary1.dll
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\ClassLibrary1.pdb
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csprojAssemblyReference.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\MainWindow.g.cs
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\App.g.cs
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.lref
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\MainWindow.baml
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.g.resources
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.Properties.Resources.resources
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.GenerateResource.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CopyComplete
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.exe
+C:\Users\user.UIT\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.pdb
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe.config
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.exe
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\SourseOfStrengh2.pdb
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\ClassLibrary1.dll
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\bin\Debug\ClassLibrary1.pdb
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csprojAssemblyReference.cache
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\MainWindow.g.cs
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\App.g.cs
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.cache
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2_MarkupCompile.lref
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\MainWindow.baml
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.g.resources
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.Properties.Resources.resources
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.GenerateResource.cache
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CoreCompileInputs.cache
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CopyComplete
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.exe
+C:\Users\uituser\Desktop\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаборотореая работ 3 Переделанная\SourseOfStrengh2\obj\Debug\SourseOfStrengh2.csproj.CopyComplete

@@ -1,0 +1,42 @@
+﻿<Window x:Class="SourseOfStrengh2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SourseOfStrengh2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="117*"/>
+            <RowDefinition Height="932*"/>
+        </Grid.RowDefinitions>
+
+        <Image Margin="0,0,-8,-30" Grid.RowSpan="2" Source="Image3.png" Stretch="Fill"/>
+
+        <Button x:Name="PlusToDamage" Click="PlusToDamage_Click" Content="Испить&#x9;" HorizontalAlignment="Left" Margin="38,39,0,0" VerticalAlignment="Top" Width="368" Height="98" FontSize="48" FontWeight="Bold" Background="SlateBlue" Foreground="White" Grid.Row="1" BorderBrush="Black"/>
+        <Button x:Name="GiveBT" Click="GiveBT_Click" Content="Наполнить" HorizontalAlignment="Left" Margin="1534,19,0,0" VerticalAlignment="Top" Width="368" Height="98" Foreground="White" Background="SlateBlue" FontSize="48" FontWeight="Bold" RenderTransformOrigin="0.516,-0.306" BorderBrush="Black"/>
+        <ProgressBar x:Name="PBSource" HorizontalAlignment="Left" Height="98" Margin="486,38,0,0" VerticalAlignment="Top" Width="988" Background="White" Foreground="SlateBlue" BorderBrush="Black" ValueChanged="PBSource_ValueChanged" Grid.RowSpan="2"/>
+        <Label Content="Сила Героя: " HorizontalAlignment="Left" Margin="673,95,0,0" VerticalAlignment="Top" Width="290" Height="86" FontSize="48" FontWeight="Bold" Foreground="#FF4425FF" Grid.Row="1" BorderBrush="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" Background="White"/>
+        <TextBox x:Name="TBPlusDamage" HorizontalAlignment="Left" Height="98" Margin="1007,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261" FontSize="48" Background="SlateBlue" Text="0" TextAlignment="Center" Foreground="White" FontWeight="Bold" TextChanged="TBPlusDamage_TextChanged" Grid.Row="1" BorderBrush="Black"/>
+        <Label x:Name="UseSourse" Content="Оставшееся количество использований:  Использовано: раз" HorizontalAlignment="Left" Margin="229,208.188,0,0" VerticalAlignment="Top" Height="86" Width="1593" FontSize="48" FontWeight="Bold" Visibility="Hidden" Foreground="#FF4425FF" Grid.Row="1"/>
+        <Image Margin="369,490,1213,96" Source="2.png" Stretch="Fill" RenderTransformOrigin="2.401,3.274" Grid.Row="1"/>
+        <Button x:Name="InfoBTN" Content="Информация" Click="InfoBTN_Click" HorizontalAlignment="Left" Margin="38,19,0,0" VerticalAlignment="Top" Width="368" Height="98" Foreground="White" Background="SlateBlue" FontSize="48" FontWeight="Bold" RenderTransformOrigin="0.516,-0.306" BorderBrush="Black"/>
+        <Button x:Name="Выход" Content="Выход" HorizontalAlignment="Left" Height="98" Margin="1534,44,0,0" VerticalAlignment="Top" Width="368" Click="Button_Click" FontSize="48" FontWeight="Bold" Background="SlateBlue" Foreground="White" Grid.Row="1" RenderTransformOrigin="0.5,-0.265" BorderBrush="Black"/>
+        <Label Content="Число использований" Margin="1314,465,54,0" VerticalAlignment="Top" Height="95" FontSize="48" Foreground="#FF4425FF" RenderTransformOrigin="0.5,0.5" Grid.Row="1" FontWeight="Bold" Background="White">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="1.193" AngleY="-0.092"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="1.466" Y="-0.602"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="PowerOfSourse" HorizontalAlignment="Left" Height="101" Margin="1472,574,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="242" Background="SlateBlue" FontSize="48" TextAlignment="Center" Foreground="White" TextChanged="TextBox_TextChanged" FontWeight="Bold" Grid.Row="1" BorderBrush="Black"/>
+        <Button Content="Заново " HorizontalAlignment="Left" Margin="1472,706,0,0" Grid.Row="1" VerticalAlignment="Top" Width="242" Height="100" Background="SlateBlue" Foreground="White" FontSize="48" FontWeight="Bold" Click="Button_Click_1" BorderBrush="Black"/>
+        <Image Margin="655,490,651,38" Source="cropped-logo-removebg-preview.png" Stretch="Fill" Grid.Row="1"/>
+        <Button x:Name="Safe" Content="Наполнить" HorizontalAlignment="Left" Margin="1534,19,0,0" VerticalAlignment="Top" Width="368" Height="98" Background="SlateBlue" Foreground="White" FontSize="48" FontWeight="Bold" BorderBrush="Black" Click="Safe_Click"/>
+
+    </Grid>
+</Window>

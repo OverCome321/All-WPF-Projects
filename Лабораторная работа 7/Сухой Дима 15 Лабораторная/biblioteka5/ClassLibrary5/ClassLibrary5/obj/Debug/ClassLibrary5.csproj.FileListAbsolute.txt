@@ -1,0 +1,27 @@
+D:\1\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+D:\1\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+D:\1\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+D:\1\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+D:\1\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\user\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\user\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\user\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\user\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\user.UIT\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\user.UIT\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\user.UIT\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\user.UIT\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\Дмитрий\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\Дмитрий\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\Дмитрий\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\Дмитрий\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\Дмитрий\Desktop\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csprojAssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\fanel\OneDrive\Рабочий стол\biblioteka5\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\fanel\OneDrive\Рабочий стол\biblioteka5\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.pdb

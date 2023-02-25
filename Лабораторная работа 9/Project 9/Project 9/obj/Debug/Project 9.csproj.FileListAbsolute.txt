@@ -1,0 +1,67 @@
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project_9.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window1.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window1.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window2.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window2.baml
+D:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.exe.config
+D:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.exe
+D:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.pdb
+D:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\ClassLibrary1.dll
+D:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\ClassLibrary1.pdb
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\MainWindow.g.cs
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window1.g.cs
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window2.g.cs
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\App.g.cs
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9_MarkupCompile.cache
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9_MarkupCompile.lref
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\MainWindow.baml
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window1.baml
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window2.baml
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.g.resources
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project_9.Properties.Resources.resources
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.GenerateResource.cache
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.CopyComplete
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.exe
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.pdb
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.AssemblyReference.cache
+D:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.CoreCompileInputs.cache
+G:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.exe.config
+G:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.exe
+G:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\Project 9.pdb
+G:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\ClassLibrary1.dll
+G:\Лабораторная работа 9\Project 9\Project 9\bin\Debug\ClassLibrary1.pdb
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.AssemblyReference.cache
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.SuggestedBindingRedirects.cache
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\MainWindow.g.cs
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window1.g.cs
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window2.g.cs
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\App.g.cs
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9_MarkupCompile.cache
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9_MarkupCompile.lref
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\MainWindow.baml
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window1.baml
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Window2.baml
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.g.resources
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project_9.Properties.Resources.resources
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.GenerateResource.cache
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.CoreCompileInputs.cache
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.CopyComplete
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.exe
+G:\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лабораторная работа 9\Project 9\Project 9\obj\Debug\Project 9.csproj.CopyComplete

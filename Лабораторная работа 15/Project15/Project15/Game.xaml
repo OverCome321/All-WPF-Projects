@@ -1,0 +1,35 @@
+﻿<Page x:Class="Project15.Game"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project15"
+      mc:Ignorable="d" 
+      d:DesignHeight="1040" d:DesignWidth="1750"
+      Title="Game">
+
+    <Grid Background="White">
+        <Image Source="/Image1.png" Stretch="Fill"/>
+        <Image x:Name="CrusaderSecond" Margin="1311,520,-61,20" Source="/imgonline-com-ua-Mirror-EXUF1LQ69rcdz7l.png" Stretch="Fill"/>
+        <Image x:Name="KnightSecond" Margin="961,111,-411,-271" Source="/imgonline-com-ua-Mirror-gF1WwHym1gL.png" Stretch="Fill"/>
+        <Image x:Name="KnightOfAroundTableFirst" Margin="-46,548,1174,90" Source="/imgonline-com-ua-Mirror-ZPaSaoDwrsiD9JjM.png" Stretch="Fill"/>
+        <Image x:Name="CrusaderFirst" Margin="-5,520,1255,20" Source="/kisspng-digital-art-knight-pixel-5ad19b2d6fcb93.1645594715236861894579-removebg-preview.png" Stretch="Fill"/>
+        <Image x:Name="KnightOfAroundTableSecond" Margin="1210,549,-82,90" Source="/kisspng-pixel-art-knight-image-5b9a2462d28874.6498911315368285148624-removebg-preview.png" Stretch="Fill"/>
+        <Image x:Name="KnightFirst" Margin="-355,111,905,-271" Source="/da97c3f45361a56.png" Stretch="Fill"/>
+        <ProgressBar x:Name="PbFirstKnight" HorizontalAlignment="Left" Height="108" Margin="25,24,0,0" VerticalAlignment="Top" Width="760" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFFF1D1D"/>
+        <ProgressBar x:Name="PbSecondKnight" HorizontalAlignment="Left" Height="108" Margin="961,24,0,0" VerticalAlignment="Top" Width="760" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFFF1D1D"/>
+        <Button x:Name="DamageFirst" Content="Атака" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="25,370,0,0" VerticalAlignment="Top" Width="240" Background="White" BorderBrush="Black" FontSize="48" FontWeight="Bold" Click="DamageFirst_Click"/>
+        <Button x:Name="DamageSecond" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="1481,370,0,0" VerticalAlignment="Top" Width="240" Background="White" BorderBrush="Black" FontSize="48" FontWeight="Bold" Content="Атака" Click="DamageSecond_Click"/>
+        <TextBox x:Name="LivesOfFirst" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="30,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" BorderBrush="Black" Background="White" FontSize="36" TextAlignment="Center"/>
+        <TextBox x:Name="CountSecondHeals" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="1122,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" BorderBrush="Black" Background="White" FontSize="36" TextAlignment="Center"/>
+        <TextBox x:Name="LivesOfSecond" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="1481,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" BorderBrush="Black" Background="White" FontSize="36" TextAlignment="Center"/>
+        <TextBox x:Name="CountFirstHeals" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="348,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="242" BorderBrush="Black" Background="White" FontSize="36" TextAlignment="Center"/>
+        <Label Content="Число жизней" HorizontalAlignment="Left" Height="68" Margin="10,137,0,0" VerticalAlignment="Top" Width="279" FontSize="36" FontWeight="Bold"/>
+        <Label Content="Число зелей лечения" HorizontalAlignment="Left" Height="73" Margin="294,137,0,0" VerticalAlignment="Top" Width="402" FontSize="36" FontWeight="Bold"/>
+        <Label Content="Число зелей лечения" HorizontalAlignment="Left" Height="73" Margin="1041,132,0,0" VerticalAlignment="Top" Width="402" FontSize="36" FontWeight="Bold"/>
+        <Label Content="Число жизней" HorizontalAlignment="Left" Height="68" Margin="1462,137,0,0" VerticalAlignment="Top" Width="278" FontSize="36" FontWeight="Bold"/>
+        <Button x:Name="UseHealSecond" Content="Лечить" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="1122,370,0,0" VerticalAlignment="Top" Width="240" Background="White" BorderBrush="Black" FontSize="48" FontWeight="Bold" Click="UseHealSecond_Click"/>
+        <Button x:Name="UseHealFirst" HorizontalAlignment="Left" BorderThickness="4" Height="114" Margin="348,370,0,0" VerticalAlignment="Top" Width="242" Background="White" BorderBrush="Black" FontSize="48" FontWeight="Bold" Content="Лечить" Click="UseHealFirst_Click"/>
+
+    </Grid>
+</Page>

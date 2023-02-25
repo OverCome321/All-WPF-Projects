@@ -1,0 +1,7 @@
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54_g0w2upi3_wpftmp.csproj.AssemblyReference.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54_g0w2upi3_wpftmp.csproj.SuggestedBindingRedirects.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.Properties.Resources.resources
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54_g0w2upi3_wpftmp.csproj.GenerateResource.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54_g0w2upi3_wpftmp.csproj.CoreCompileInputs.cache
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.exe
+G:\TestLaba\WpfApp54\obj\Debug\WpfApp54.pdb

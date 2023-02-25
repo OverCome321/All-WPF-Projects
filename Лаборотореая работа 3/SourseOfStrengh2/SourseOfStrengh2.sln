@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourseOfStrengh2", "SourseOfStrengh2.csproj", "{08C78336-5A0E-4AAC-AFDF-D8D951CC80F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C78336-5A0E-4AAC-AFDF-D8D951CC80F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C78336-5A0E-4AAC-AFDF-D8D951CC80F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C78336-5A0E-4AAC-AFDF-D8D951CC80F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C78336-5A0E-4AAC-AFDF-D8D951CC80F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526F0679-005B-4352-B840-6CA98626FA55}
+	EndGlobalSection
+EndGlobal

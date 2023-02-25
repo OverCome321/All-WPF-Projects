@@ -1,0 +1,6 @@
+C:\Users\fanel\OneDrive\Рабочий стол\4\4\bin\Debug\4.dll
+C:\Users\fanel\OneDrive\Рабочий стол\4\4\bin\Debug\4.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\4\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\4\4\obj\Debug\4.dll
+C:\Users\fanel\OneDrive\Рабочий стол\4\4\obj\Debug\4.pdb

@@ -1,0 +1,252 @@
+﻿<Page x:Class="PrincessSaviors.Map"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PrincessSaviors"
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1422"
+      Title="Map">
+    <Page.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" StrokeDashArray="1 2" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" SnapsToDevicePixels="true" StrokeThickness="1"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" CornerRadius="15" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="#FFFF0000"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="#FFFF0000"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="FocusVisual1">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" StrokeDashArray="1 2" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" SnapsToDevicePixels="true" StrokeThickness="1"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background1" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border1" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background1" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border1" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background1" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border1" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background1" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border1" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground1" Color="#FF838383"/>
+        <Style x:Key="ButtonStyle2" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual1}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background1}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border1}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" CornerRadius="30" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background1}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border1}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background1}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border1}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background1}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border1}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground1}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="FocusVisual2">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" StrokeDashArray="1 2" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" SnapsToDevicePixels="true" StrokeThickness="1"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background2" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border2" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background2" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border2" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background2" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border2" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background2" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border2" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground2" Color="#FF838383"/>
+        <Style x:Key="ButtonStyle3" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual2}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background2}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border2}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" Background="{TemplateBinding Background}" CornerRadius="30" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background2}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border2}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background2}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border2}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background2}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border2}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground2}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Margin="0,0,10,6">
+        <Grid.Background>
+            <ImageBrush ImageSource="/фон для башен.png"/>
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="289" Margin="320,433,0,0" VerticalAlignment="Top" Width="280" Source="/Images/Tower.png"/>
+        <Image HorizontalAlignment="Left" Height="288" Margin="668,275,0,0" VerticalAlignment="Top" Width="280" Source="/Images/Tower.png"/>
+        <Image HorizontalAlignment="Left" Height="289" Margin="996,36,0,0" VerticalAlignment="Top" Width="280" Source="/Images/Tower.png"/>
+        <Image HorizontalAlignment="Left" Height="289" Margin="35,197,0,0" VerticalAlignment="Top" Width="280" Source="/Images/Tower.png"/>
+        <Image HorizontalAlignment="Left" Height="289" Margin="388,36,0,0" VerticalAlignment="Top" Width="280" Source="/Images/Tower.png"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackSecondTower" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="365,419,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackSecondTower_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackThirtTower" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="433,24,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackThirtTower_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackFourTower" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="713,262,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackFourTower_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackFiveTower" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="1041,24,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackFiveTower_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackFirstTower" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="80,185,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackFirstTower_Click"/>
+        <Label Content="Первая башня" HorizontalAlignment="Left" Height="60" Margin="94,256,0,0" VerticalAlignment="Top" Width="162" Foreground="White" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Вторая башня" HorizontalAlignment="Left" Height="60" Margin="388,491,0,0" VerticalAlignment="Top" Width="162" Foreground="White" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Третья башня" HorizontalAlignment="Left" Height="60" Margin="453,96,0,0" VerticalAlignment="Top" Width="162" Foreground="White" FontWeight="Bold" FontSize="20" RenderTransformOrigin="0.475,0.392"/>
+        <Label Content="Четвертая башня" HorizontalAlignment="Left" Height="60" Margin="716,334,0,0" VerticalAlignment="Top" Width="184" Foreground="White" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Пятая башня" HorizontalAlignment="Left" Height="60" Margin="1062,96,0,0" VerticalAlignment="Top" Width="162" Foreground="White" FontWeight="Bold" FontSize="20"/>
+        <Image x:Name="FirstKnight" HorizontalAlignment="Left" Height="142" Margin="80,568,0,0" VerticalAlignment="Top" Width="133" Source="/knight-removebg-preview.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="FourKnight" HorizontalAlignment="Left" Height="142" Margin="148,592,0,0" VerticalAlignment="Top" Width="133" Source="/knight-removebg-preview.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="SecondKnight" HorizontalAlignment="Left" Height="142" Margin="24,590,0,0" VerticalAlignment="Top" Width="132" Source="/knight-removebg-preview.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="ThirtKnight" HorizontalAlignment="Left" Height="142" Margin="94,610,0,0" VerticalAlignment="Top" Width="132" Source="/knight-removebg-preview.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <ProgressBar x:Name="PbFirst" HorizontalAlignment="Left" Height="45" BorderThickness="3" Margin="80,415,0,0" VerticalAlignment="Top" Width="191" Background="White" BorderBrush="Black" Foreground="Red"/>
+        <ProgressBar x:Name="PbSecond" HorizontalAlignment="Left" Height="45" BorderThickness="3" Margin="359,653,0,0" VerticalAlignment="Top" Width="191" Background="White" BorderBrush="Black" Foreground="Red"/>
+        <ProgressBar x:Name="PbFour" HorizontalAlignment="Left" Height="44" BorderThickness="3" Margin="709,494,0,0" VerticalAlignment="Top" Width="191" BorderBrush="Black" Background="White" Foreground="Red"/>
+        <ProgressBar x:Name="PbThirt" HorizontalAlignment="Left" Height="44" BorderThickness="3" Margin="432,256,0,0" VerticalAlignment="Top" Width="192" Background="White" BorderBrush="Black" Foreground="Red"/>
+        <ProgressBar x:Name="PbFive" HorizontalAlignment="Left" Height="44" BorderThickness="3" Margin="1040,256,0,0" VerticalAlignment="Top" Width="192" Background="White" BorderBrush="Black" Foreground="Red"/>
+        <Label x:Name="LabelPrincess" Content="" HorizontalAlignment="Left" Height="48" Margin="631,12,0,0" VerticalAlignment="Top" Width="405" Foreground="White" FontSize="20" FontFamily="Bahnschrift SemiBold" FontWeight="Bold"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackFirstTower_Copy" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="80,185,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackFirstTower_Copy_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackThirtTower_Copy" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="433,24,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackThirtTower_Copy_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackFiveTower_Copy" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="1041,24,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackFiveTower_Copy_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackFourTower_Copy" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="713,262,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackFourTower_Copy_Click"/>
+        <Button Style="{DynamicResource ButtonStyle1}" x:Name="AtackSecondTower_Copy" BorderThickness="3" Content="Напасть" HorizontalAlignment="Left" Height="72" Margin="365,418,0,0" VerticalAlignment="Top" Width="190" BorderBrush="Black" FontSize="22" FontWeight="Normal" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Background="White" Click="AtackSecondTower_Copy_Click"/>
+        <Button x:Name="DamageForArmy" Style="{DynamicResource ButtonStyle2}" Content="Атаковать войско" HorizontalAlignment="Left" BorderThickness="3" Height="78" Margin="995,321,0,0" VerticalAlignment="Top" Width="296" FontSize="24" FontWeight="Bold" FontFamily="Bahnschrift SemiBold" Background="White" BorderBrush="Black" Click="DamageForArmy_Click"/>
+        <ProgressBar x:Name="PbKnights" HorizontalAlignment="Left" BorderThickness="3" Height="42" Margin="24,521,0,0" VerticalAlignment="Top" Width="248" Foreground="#FF00FF2F" BorderBrush="Black" Background="White"/>
+        <Button x:Name="Again" Style="{DynamicResource ButtonStyle3}" Content="Закончить сражение" HorizontalAlignment="Left" Height="76" BorderThickness="3" Margin="1165,666,0,0" VerticalAlignment="Top" Width="214" Background="White" BorderBrush="Black" FontSize="20" FontFamily="Bahnschrift SemiBold" Click="Again_Click"/>
+    </Grid>
+</Page>

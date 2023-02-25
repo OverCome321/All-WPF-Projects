@@ -1,0 +1,37 @@
+﻿<Window x:Class="Project_9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_9"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        mc:Ignorable="d"
+        
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid>
+        <Image Source="Image2.png" Stretch="Fill"/>
+        <Label Content="Введите тип источника" HorizontalAlignment="Left" Margin="708,720,0,0" VerticalAlignment="Top" Width="598" Height="103" FontSize="48" FontWeight="Bold" RenderTransformOrigin="0.824,0.488"/>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" Height="113" Margin="95,823,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="498" Background="#FFFFFAF6" BorderBrush="Black" FontSize="36" FontWeight="Bold"/>
+        <Label Content="Введите имя источника" HorizontalAlignment="Left" Margin="95,715,0,0" VerticalAlignment="Top" Height="103" Width="683" FontSize="48" FontWeight="Bold"/>
+        <Image Margin="2156,161,-1921,770" Source="jro8q3mccpzs43jyqtwgkedup74zra5frbzscedop75skhtypfzny7decwogqampcw.png" Stretch="Fill"/>
+        <Image Margin="219,62,283,869" Source="jro8q3mccpzs43jyqtwgkedup74zra5frbzscedop75skhtypfzny7decwogqampcw (1).png" Stretch="Fill"/>
+        <Image Margin="2087,369,-1862,593" Source="jro8q3mccpzs43jyqtwgkedup74zra5frbzscedop75skhtypfzny7decwogqampcw (2).png" Stretch="Fill"/>
+        <Label x:Name="MainLabel" Content="" HorizontalAlignment="Center" VerticalAlignment="Center" Height="245" Width="1354" FontSize="36" FontWeight="Bold"/>
+        <Label x:Name="Tag" Content="Отформатированная строка" HorizontalAlignment="Left" Margin="627,291,0,0" VerticalAlignment="Top" Height="74" Width="675" FontSize="48" FontWeight="Bold"/>
+        <Button x:Name="Format" Content="Format" HorizontalAlignment="Left" Margin="1336,820,0,0" VerticalAlignment="Top" Width="180" Height="114" Background="#FFFFFAF6" BorderBrush="Black" FontSize="48" FontWeight="Bold" Click="Format_Click"/>
+        <Button Content="Rules!" HorizontalAlignment="Left" Margin="1614,823,0,0" VerticalAlignment="Top" Width="210" Height="108" Click="Button_Click" Background="#FFFFFAF6" BorderBrush="Black" FontSize="48" FontWeight="Bold"/>
+        <Button Content="Conditions" HorizontalAlignment="Left" Margin="1614,666,0,0" VerticalAlignment="Top" Width="210" Height="106" Background="#FFFFFAF6" BorderBrush="Black" FontSize="36" FontWeight="Bold" Click="Button_Click_1"/>
+        <ComboBox x:Name="TypeOfSource" HorizontalAlignment="Left" Height="113" Margin="758,823,0,0" VerticalAlignment="Top" Width="498" SelectedIndex="0" BorderBrush="Black">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <TextBlock Text="Обычный источник" FontSize="36"/>
+            <TextBlock Text="Проклятый источник" FontSize="36"/>
+            <TextBlock Text="Бесконечный источник" FontSize="36"/>
+        </ComboBox>
+    </Grid>
+</Window>

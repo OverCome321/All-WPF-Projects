@@ -1,0 +1,126 @@
+﻿<Window x:Class="Prilozhenie5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prilozhenie5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="MaxHp1" HorizontalAlignment="Left" Margin="10,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Hp1" HorizontalAlignment="Left" Margin="10,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Defence1" HorizontalAlignment="Left" Margin="10,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Attack1" HorizontalAlignment="Left" Margin="10,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="Unit1" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="120">
+            <TextBlock Text="Юнит"/>
+            <TextBlock Text="Стрелок"/>
+            <TextBlock Text="Маг"/>
+        </ComboBox>
+        <TextBox x:Name="arr1" HorizontalAlignment="Left" Margin="10,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <ComboBox x:Name="Unit2" HorizontalAlignment="Left" Margin="607,42,0,0" VerticalAlignment="Top" Width="120">
+            <TextBlock Text="Юнит"/>
+            <TextBlock Text="Стрелок"/>
+            <TextBlock Text="Маг"/>
+        </ComboBox>
+        <TextBox x:Name="MaxHp2" HorizontalAlignment="Left" Margin="607,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Hp2" HorizontalAlignment="Left" Margin="607,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Defence2" HorizontalAlignment="Left" Margin="607,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Attack2" HorizontalAlignment="Left" Margin="607,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="arr2" HorizontalAlignment="Left" Margin="607,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <TextBlock x:Name="TIP1" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Выбрать тип" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="dobav1" Content="Добавить" HorizontalAlignment="Left" Margin="45,369,0,0" VerticalAlignment="Top" Height="26" Width="85" Click="dobav1_Click"/>
+        <Button x:Name="dobav2" Content="Добавить" HorizontalAlignment="Left" Margin="607,369,0,0" VerticalAlignment="Top" Height="26" Width="85" Click="dobav2_Click"/>
+        <TextBlock x:Name="TIP2" HorizontalAlignment="Left" Margin="607,10,0,0" TextWrapping="Wrap" Text="Выбрать тип" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,83,0,0" TextWrapping="Wrap" Text="Максимальное здоровье" VerticalAlignment="Top" Width="141"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"><Run Language="ru-ru" Text="З"/><Run Text="доровье"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="10,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"><Run Language="ru-ru" Text="Защита"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="10,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"><Run Language="ru-ru" Text="Атака"/></TextBlock>
+        <TextBlock x:Name="kolv1" HorizontalAlignment="Left" Margin="10,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Visibility="Hidden"><Run Language="ru-ru" Text="Количество стрел"/></TextBlock>
+        <TextBox x:Name="mana1" HorizontalAlignment="Left" Margin="10,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <TextBlock x:Name="man1" HorizontalAlignment="Left" Margin="10,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Visibility="Hidden"><Run Language="ru-ru" Text="Мана"/></TextBlock>
+        <TextBox x:Name="man2" HorizontalAlignment="Left" Margin="610,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <TextBlock HorizontalAlignment="Left" Margin="610,83,0,0" TextWrapping="Wrap" Text="Максимальное здоровье" VerticalAlignment="Top" Width="140"/>
+        <TextBlock HorizontalAlignment="Left" Margin="610,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"><Run Language="ru-ru" Text="З"/><Run Text="доровье"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="610,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"><Run Language="ru-ru" Text="Защита"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="610,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"><Run Language="ru-ru" Text="Атака"/></TextBlock>
+        <TextBlock x:Name="kolv2" HorizontalAlignment="Left" Margin="607,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Visibility="Hidden"><Run Language="ru-ru" Text="Количество стрел"/></TextBlock>
+        <TextBlock x:Name="mana2" HorizontalAlignment="Left" Margin="607,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Visibility="Hidden"><Run Language="ru-ru" Text="Мана"/></TextBlock>
+        <TextBlock x:Name="Macxp1" HorizontalAlignment="Left" Margin="197,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50"><Run Language="en-gb" Text="Max hp:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="197,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="25"><Run Language="en-gb" Text="Hp :"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="197,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"><Run Language="en-gb" Text="Def :"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="197,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"><Run Language="en-gb" Text="Attack : "/></TextBlock>
+        <TextBlock x:Name="Ar1" HorizontalAlignment="Left" Margin="197,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Visibility="Hidden"><Run Language="en-gb" Text="Arrow : "/></TextBlock>
+        <TextBlock x:Name="Unit1MaxHp" HorizontalAlignment="Left" Margin="242,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <TextBlock x:Name="Unit1Hp" HorizontalAlignment="Left" Margin="222,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <TextBlock x:Name="Unit1Defence" HorizontalAlignment="Left" Margin="228,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"/>
+        <TextBlock x:Name="Unit1Attack" HorizontalAlignment="Left" Margin="242,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"/>
+        <TextBlock x:Name="_5" HorizontalAlignment="Left" Margin="242,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Visibility="Hidden"/>
+        <TextBlock x:Name="ma1" HorizontalAlignment="Left" Margin="197,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Visibility="Hidden"><Run Language="en-gb" Text="Mana"/><Run Text=" : "/></TextBlock>
+        <TextBlock x:Name="_6" HorizontalAlignment="Left" Margin="242,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Visibility="Hidden"/>
+        <Button x:Name="fight" Content="Битва" HorizontalAlignment="Left" Margin="292,266,0,0" VerticalAlignment="Top" Width="80" Click="Fight" Visibility="Visible"/>
+        <TextBlock x:Name="Macxp1_Copy" HorizontalAlignment="Left" Margin="407,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="en-gb" Text="Max hp:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="407,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="25" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="en-gb" Text="Hp :"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="407,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="en-gb" Text="Def :"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="407,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="en-gb" Text="Attack : "/></TextBlock>
+        <TextBlock x:Name="Ar2" HorizontalAlignment="Left" Margin="407,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="en-gb" Text="Arrow : "/></TextBlock>
+        <TextBlock x:Name="Unit2MaxHp" HorizontalAlignment="Left" Margin="452,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
+        <TextBlock x:Name="Unit2Hp" HorizontalAlignment="Left" Margin="432,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <TextBlock x:Name="Unit2Defence" HorizontalAlignment="Left" Margin="438,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"/>
+        <TextBlock x:Name="Unit2Attack" HorizontalAlignment="Left" Margin="452,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140"/>
+        <TextBlock x:Name="_11" HorizontalAlignment="Left" Margin="452,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Visibility="Hidden"/>
+        <TextBlock x:Name="ma2" HorizontalAlignment="Left" Margin="407,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="en-gb" Text="Mana"/><Run Text=" : "/></TextBlock>
+        <TextBlock x:Name="_12" HorizontalAlignment="Left" Margin="452,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" Visibility="Hidden"/>
+        <TextBlock HorizontalAlignment="Left" Margin="197,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"><Run Language="en-gb" Text="Class :"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="407,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"><Run Language="en-gb" Text="Class :"/></TextBlock>
+        <TextBlock x:Name="CL1" HorizontalAlignment="Left" Margin="236,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Text=""/>
+        <TextBlock x:Name="CL2" HorizontalAlignment="Left" Margin="450,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Text=""/>
+    </Grid>
+</Window>

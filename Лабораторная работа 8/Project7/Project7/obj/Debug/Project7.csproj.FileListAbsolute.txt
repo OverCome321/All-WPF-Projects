@@ -1,0 +1,55 @@
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\bin\Debug\Project7.exe.config
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\bin\Debug\Project7.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\bin\Debug\Project7.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\bin\Debug\ClassLibrary1.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.AssemblyReference.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\MainWindow.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\App.g.cs
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7_MarkupCompile.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7_MarkupCompile.lref
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\MainWindow.baml
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.g.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.Properties.Resources.resources
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.GenerateResource.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.exe
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.CopyComplete
+D:\Лаба 8\Project7\Project7\bin\Debug\Project7.exe.config
+D:\Лаба 8\Project7\Project7\bin\Debug\Project7.exe
+D:\Лаба 8\Project7\Project7\bin\Debug\Project7.pdb
+D:\Лаба 8\Project7\Project7\bin\Debug\ClassLibrary1.dll
+D:\Лаба 8\Project7\Project7\bin\Debug\ClassLibrary1.pdb
+D:\Лаба 8\Project7\Project7\obj\Debug\MainWindow.g.cs
+D:\Лаба 8\Project7\Project7\obj\Debug\App.g.cs
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7_MarkupCompile.cache
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7_MarkupCompile.lref
+D:\Лаба 8\Project7\Project7\obj\Debug\MainWindow.baml
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.g.resources
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.Properties.Resources.resources
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.GenerateResource.cache
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.CopyComplete
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.exe
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.pdb
+G:\Лаба 8\Project7\Project7\bin\Debug\Project7.exe.config
+G:\Лаба 8\Project7\Project7\bin\Debug\Project7.exe
+G:\Лаба 8\Project7\Project7\bin\Debug\Project7.pdb
+G:\Лаба 8\Project7\Project7\bin\Debug\ClassLibrary1.dll
+G:\Лаба 8\Project7\Project7\bin\Debug\ClassLibrary1.pdb
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.AssemblyReference.cache
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.SuggestedBindingRedirects.cache
+G:\Лаба 8\Project7\Project7\obj\Debug\MainWindow.g.cs
+G:\Лаба 8\Project7\Project7\obj\Debug\App.g.cs
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7_MarkupCompile.cache
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7_MarkupCompile.lref
+G:\Лаба 8\Project7\Project7\obj\Debug\MainWindow.baml
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.g.resources
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.Properties.Resources.resources
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.GenerateResource.cache
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.CopyComplete
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.exe
+G:\Лаба 8\Project7\Project7\obj\Debug\Project7.pdb
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.AssemblyReference.cache
+D:\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\Лаба 8\Project7\Project7\obj\Debug\Project7.csproj.SuggestedBindingRedirects.cache

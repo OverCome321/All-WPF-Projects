@@ -1,0 +1,37 @@
+﻿<Page x:Class="WpfApp54.Game2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp54"
+      mc:Ignorable="d" 
+      d:DesignHeight="1040" d:DesignWidth="1700"
+      Title="Game2">
+
+    <Grid>
+        <Image Source="/Image1.png" Stretch="Fill"/>
+        <Image x:Name="KnightFirst" Margin="-350,114,850,-274" Source="/da97c3f45361a56.png" Stretch="Fill"/>
+        <Image x:Name="CrusaderFirst" Margin="50,520,1150,20" Source="/kisspng-digital-art-knight-pixel-5ad19b2d6fcb93.1645594715236861894579-removebg-preview.png" Stretch="Fill"/>
+        <Image x:Name="CrusaderSecond" Margin="1200,520,0,20" Source="/imgonline-com-ua-Mirror-EXUF1LQ69rcdz7l.png" Stretch="Fill"/>
+        <Image x:Name="KnightOfRoundTableSecond" Margin="1074,515,-28,77" Source="/kisspng-pixel-art-knight-image-5b9a2462d28874.6498911315368285148624-removebg-preview.png" Stretch="Fill"/>
+        <Image x:Name="KnightSecond" Margin="828,114,-328,-274" Source="/imgonline-com-ua-Mirror-gF1WwHym1gL.png" Stretch="Fill"/>
+        <Image x:Name="KnightOfRoundTableFirst" Margin="-50,515,1050,77" Source="/imgonline-com-ua-Mirror-ZPaSaoDwrsiD9JjM.png" Stretch="Fill"/>
+        <ProgressBar x:Name="PbOfFirstHero" BorderThickness="2" HorizontalAlignment="Left" Height="96" Margin="10,18,0,0" VerticalAlignment="Top" Width="658" Background="White" BorderBrush="Black"/>
+        <ProgressBar x:Name="PbOfSecondHero" HorizontalAlignment="Left"  BorderThickness="2" Height="96" Margin="1025,18,0,0" VerticalAlignment="Top" Width="658" Background="White" BorderBrush="Black"/>
+        <Ellipse HorizontalAlignment="Left" Height="177" Margin="756,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="206" Fill="White"/>
+        <Image Margin="740,6,692,816" Source="/png-transparent-vs-showdown-competition-ultimate-pk-removebg-preview.png" Stretch="Fill"/>
+        <Button x:Name="AttackFirst" Content="Атака" HorizontalAlignment="Left"  BorderThickness="2" Height="92" Margin="10,201,0,0" VerticalAlignment="Top" Width="290" BorderBrush="Black" FontSize="36" Background="White" Click="AttackFirst_Click"/>
+        <Label x:Name="LivesOfFirstHero" Content="Число жизней - " HorizontalAlignment="Left" Height="64" Margin="10,123,0,0" VerticalAlignment="Top" Width="290" FontSize="24" Background="White" BorderBrush="Black" FontWeight="Normal"/>
+        <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="64" Margin="10,123,0,0" VerticalAlignment="Top" Width="290"/>
+        <Label x:Name="HealsOfFirstHero" Content="Зелья лечения - " HorizontalAlignment="Left" Height="64" Margin="327,123,0,0" VerticalAlignment="Top" Width="290" Background="White" BorderBrush="Black" FontSize="24"/>
+        <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="64" Margin="327,123,0,0" VerticalAlignment="Top" Width="290"/>
+        <Button x:Name="UseHealFirst" Content="Лечение" HorizontalAlignment="Left" BorderThickness="2" Height="92" Margin="327,201,0,0" VerticalAlignment="Top" Width="290" Background="White" BorderBrush="Black" FontSize="36" FontWeight="Normal" Click="UseHealFirst_Click"/>
+        <Label x:Name="HealsOfSecondHero" Content="Зелья лечения - " HorizontalAlignment="Left" Height="64" Margin="1074,127,0,0" VerticalAlignment="Top" Width="290" Background="White" BorderBrush="Black" FontSize="24"/>
+        <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="65" Margin="1074,127,0,0" VerticalAlignment="Top" Width="290"/>
+        <Label x:Name="LivesOfSecondHero" Content="Число жизней - " HorizontalAlignment="Left" Height="64" Margin="1393,127,0,0" VerticalAlignment="Top" Width="290" FontSize="24" Background="White" BorderBrush="Black" FontWeight="Normal"/>
+        <Button x:Name="UseHealSecond" Content="Лечение" HorizontalAlignment="Left" BorderThickness="2" Height="92" Margin="1074,201,0,0" VerticalAlignment="Top" Width="290" Background="White" BorderBrush="Black" FontSize="36" FontWeight="Normal" Click="UseHealFirst_Click"/>
+        <Button x:Name="AttackSecond" Content="Атака" HorizontalAlignment="Left"  BorderThickness="2" Height="92" Margin="1393,201,0,0" VerticalAlignment="Top" Width="290" BorderBrush="Black" FontSize="36" Background="White" Click="AttackFirst_Click"/>
+        <Border BorderBrush="Black" BorderThickness="2" HorizontalAlignment="Left" Height="64" Margin="1393,127,0,0" VerticalAlignment="Top" Width="290"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,53 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1075*"/>
+            <ColumnDefinition Width="838*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="521*"/>
+            <RowDefinition Height="528*"/>
+        </Grid.RowDefinitions>
+        <Image Margin="-8,-30,0,0" Grid.RowSpan="2" Source="Image2.png" Stretch="Fill" Grid.ColumnSpan="2"/>
+        <Image Margin="193,126,593,112" Source="2.png" Stretch="Fill" Grid.Row="1"/>
+        <Button x:Name="Button1" Content="3" HorizontalAlignment="Left" Margin="24,26,0,0" VerticalAlignment="Top" Width="143" Height="69" Foreground="White" Background="SlateBlue" FontSize="48" FontWeight="Bold" Click="Button1_Click"/>
+        <Button x:Name="Button2" Content="2" HorizontalAlignment="Left" Margin="193,26,0,0" VerticalAlignment="Top" Width="145" Height="69" Foreground="White" Background="SlateBlue" FontSize="48" FontWeight="Bold" Click="Button2_Click"/>
+        <Button x:Name="Button3" Content="1" HorizontalAlignment="Left" Margin="364,26,0,0" VerticalAlignment="Top" Width="147" Height="69" RenderTransformOrigin="0.254,0.576" Background="SlateBlue" Foreground="White" FontWeight="Bold" FontSize="48" Click="Button3_Click"/>
+        <TextBox x:Name="TBPlusDamage" HorizontalAlignment="Left" Height="102" Margin="386,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="243" Background="SlateBlue" Foreground="White" TextAlignment="Center" FontSize="48" FontWeight="Bold" TextChanged="TBPlusDamage_TextChanged" Grid.Column="1"/>
+        <Label x:Name="Source2" Content="2. Обычный " HorizontalAlignment="Left" Margin="985,69,0,0" Grid.Row="1" VerticalAlignment="Top" Height="66" Width="297" Foreground="#FF003AFF" FontSize="48" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <Label x:Name="Source1" Content="1. Святой" HorizontalAlignment="Left" Margin="590,69,0,0" VerticalAlignment="Top" Foreground="#FF003AFF" FontSize="48" FontWeight="Bold" Height="68" Grid.Row="1" Width="231"/>
+        <Label x:Name="Source3" Content="3. Проклятый " HorizontalAlignment="Left" Margin="386,68,0,0" VerticalAlignment="Top" Foreground="#FF003AFF" FontSize="48" FontWeight="Bold" Grid.Row="1" Grid.Column="1" Width="332"/>
+        <ProgressBar x:Name="PBSource3" HorizontalAlignment="Left" Height="63" Margin="362,1,0,0" VerticalAlignment="Top" Width="383" Grid.Row="1" Foreground="SlateBlue" ValueChanged="PBSource3_ValueChanged" Grid.Column="1"/>
+        <ProgressBar x:Name="PBSource2" HorizontalAlignment="Left" Height="63" Margin="945,0,0,0" VerticalAlignment="Top" Width="417" Grid.Row="1" Foreground="SlateBlue" ValueChanged="PBSource2_ValueChanged" Grid.ColumnSpan="2"/>
+        <ProgressBar x:Name="PBSource" HorizontalAlignment="Left" Height="63" Margin="488,0,0,0" VerticalAlignment="Top" Width="401" Grid.Row="1" Foreground="SlateBlue" Value="100" ValueChanged="PBSource_ValueChanged"/>
+        <Label x:Name="Step2" Content="Степень проклятия" HorizontalAlignment="Left" Margin="24,161,0,0" VerticalAlignment="Top" Width="458" Height="74" FontSize="48" FontWeight="Bold" Foreground="#FF003AFF"/>
+        <TextBox x:Name="SourceCursed" HorizontalAlignment="Left" Height="77" Margin="118,256,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="220" RenderTransformOrigin="-3.4,-2.609" FontSize="48" FontWeight="Bold" Foreground="White" Background="SlateBlue" TextAlignment="Center" TextChanged="TextBox_TextChanged"/>
+        <Label x:Name="UseSourse" Content="" HorizontalAlignment="Left" Height="90" Margin="364,306,0,0" VerticalAlignment="Top" Width="1538" Foreground="White" FontSize="48" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <Label x:Name="Cursed" Content="" HorizontalAlignment="Left" Margin="244,432,0,10" Width="466" Foreground="#FF003AFF" FontSize="36" FontWeight="Bold" Grid.Column="1"/>
+        <Label x:Name="_12" Content="Максимальное использование" HorizontalAlignment="Left" Margin="88.5,23,0,0" VerticalAlignment="Top" Height="82" Width="739" FontSize="48" FontWeight="Bold" Foreground="#FF003AFF" Grid.Column="1"/>
+        <TextBox x:Name="Damage1" HorizontalAlignment="Left" Height="102" Margin="748,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" FontSize="48" FontWeight="Bold" TextAlignment="Center" Foreground="White" Background="SlateBlue" TextChanged="TextBox_TextChanged_1"/>
+        <Label x:Name="PowerOfHero" Content="Сила героя" HorizontalAlignment="Left" Margin="730,23,0,0" VerticalAlignment="Top" Height="82" Width="270" FontWeight="Bold" Foreground="#FF003AFF" FontSize="48"/>
+        <Button Content="Вернуть" HorizontalAlignment="Left" Margin="118,371,0,0" VerticalAlignment="Top" Width="220" Height="82" Click="Button_Click" Foreground="White" Background="SlateBlue" FontSize="48" FontWeight="Bold"/>
+        <Button x:Name="CursedOff" Content="Снять проклятие" HorizontalAlignment="Left" Margin="24,504,0,0" VerticalAlignment="Top" Width="408" Height="96" Background="SlateBlue" Foreground="White" FontSize="48" FontWeight="Bold" Grid.RowSpan="2" Click="Button_Click_1"/>
+        <Button x:Name="UssSours" Content="Испить" HorizontalAlignment="Left" Margin="0,105,0,0" VerticalAlignment="Top" Width="288" Height="112" Background="SlateBlue" Foreground="White" Click="Button_Click_2" FontSize="48" FontWeight="Bold" Grid.Column="1"/>
+        <Label x:Name="Label1" Content="" HorizontalAlignment="Left" Margin="355,256,0,0" VerticalAlignment="Top" Height="99" Width="1547" FontSize="48" FontWeight="Bold" Foreground="#FF003AFF" Grid.ColumnSpan="2"/>
+        <Button x:Name="UssSourse2" Content="Испить" HorizontalAlignment="Left" Margin="0,105,0,0" VerticalAlignment="Top" Width="288" Height="112" Foreground="White" Background="SlateBlue" FontSize="48" FontWeight="Bold" Click="UssSourse2_Click" Grid.Column="1"/>
+        <Label x:Name="Label3" Content="" HorizontalAlignment="Left" Margin="386,338,0,0" VerticalAlignment="Top" Height="94" Width="1516" Foreground="#FF003AFF" FontSize="48" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <Button x:Name="UssSours3" Content="Испить" HorizontalAlignment="Left" Margin="0,112,0,0" VerticalAlignment="Top" Width="288" Height="112" FontSize="48" FontWeight="Bold" Foreground="White" Background="SlateBlue" Click="UssSours3_Click" Grid.Column="1"/>
+        <Button x:Name="ButtonLast" Content="Испить" HorizontalAlignment="Left" Margin="0,104,0,0" VerticalAlignment="Top" Width="288" Height="118" FontSize="48" FontWeight="Bold" Foreground="White" Background="SlateBlue" Click="Button_Click_3" Grid.Column="1"/>
+        <Label x:Name="LabelLast2" Content="" HorizontalAlignment="Left" Margin="349,370,0,0" VerticalAlignment="Top" Height="90" Width="1543" Foreground="#FF003AFF" FontSize="48" FontWeight="Bold" Grid.ColumnSpan="2"/>
+        <Button x:Name="Cursedbutton" Content="3" HorizontalAlignment="Left" Margin="24,26,0,0" VerticalAlignment="Top" Width="143" Height="69" Background="SlateBlue" Foreground="White" FontSize="48" FontWeight="Bold" Click="Cursedbutton_Click"/>
+        <Button x:Name="Drink" Content="Снять" HorizontalAlignment="Left" Margin="0,104,0,0" VerticalAlignment="Top" Width="288" Height="117" Background="SlateBlue" Foreground="White" FontWeight="Bold" FontSize="48" Click="Drink_Click" Grid.Column="1"/>
+        <Image x:Name="EverSourse1" Margin="456,126,118,32" Source="cropped-logo-removebg-preview222.png" Stretch="Fill" Grid.Row="1"/>
+        <Image x:Name="DefoltSourse" Margin="887,126,525,32" Source="cropped-logo-removebg-preview.png" Stretch="Fill" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <Image x:Name="CursedSourse3" Margin="318,126,20,32" Source="cropped-logo-removebg-3.png" Stretch="Fill" Grid.Column="1" Grid.Row="1"/>
+        <Button x:Name="GiveBT" Content="Наполнить" HorizontalAlignment="Left" Margin="84,487,0,0" VerticalAlignment="Top" Width="274" Height="113" Background="SlateBlue" Foreground="White" FontSize="48" FontWeight="Bold" Grid.RowSpan="2" Click="GiveBT_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Project_9.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_9"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Image Margin="277,10,333,358" Source="kj4sa3mu.jpg" Stretch="Fill"/>
+        <Label Content="                  The first rule of working with the application.&#xD;&#xA;1. To use the application you need to enter the nameof the source and its &#xD;&#xA;type&#xD;&#xA;&#xD;&#xA;2. It is allowed to enter any numbers, symbols and letters in the line&#xD;&#xA; with the Name!&#xD;&#xA;&#xD;&#xA;3. To get the result you need to click on the format button, it will correct &#xD;&#xA;your sentence according to the given condition!" HorizontalAlignment="Left" Margin="0,66,0,0" VerticalAlignment="Top" Height="353" Width="792" FontWeight="Bold" FontSize="22"/>
+
+    </Grid>
+</Window>
